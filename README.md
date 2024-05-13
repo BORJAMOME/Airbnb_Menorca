@@ -1,5 +1,8 @@
 <img width="894" alt="Screenshot 2024-05-13 at 13 29 36" src="https://github.com/BORJAMOME/Airbnb_Menorca/assets/19588053/1cd9195b-7ab4-4a80-9693-08b143c48814">
 
+[![SQL](https://img.shields.io/badge/MySQL-8.0+-f29221?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](https://mysql.com)
+
+
 # Airbnb Data Analysis with SQL (2022)
 Welcome to the Airbnb Data Analysis repository! In this project, we explore and analyze Airbnb data using SQL queries. This analysis provides valuable insights into the Airbnb market, allowing us to understand pricing trends, popular neighborhoods, host activity, and more.
 
